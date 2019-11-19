@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: Create World, does main processing for SeaPortProgram.java
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class World extends Thing{

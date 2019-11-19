@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: Main class, create java.swing 
 
-package sea.port.project;
+package seaportprogram;
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;

@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: create person
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class Person extends Thing {

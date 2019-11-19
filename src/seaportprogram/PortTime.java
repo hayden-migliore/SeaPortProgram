@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: record times
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class PortTime {

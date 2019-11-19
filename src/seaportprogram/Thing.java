@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: Create basic thing, Used as basis for ships, persons, world, and seaports
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class Thing implements Comparable<Thing>{

@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: Create passenger Ship and get values
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class PassengerShip extends Ship{

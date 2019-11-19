@@ -4,7 +4,7 @@
 //Purpose: Create SeaPort, keep track of docks, ships, ships in que, 
 //          people, and jobs at Seaport
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class SeaPort extends Thing{

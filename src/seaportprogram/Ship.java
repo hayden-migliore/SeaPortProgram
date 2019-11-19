@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: Create Basic Ship, Used as base for Cargo and Passenger Ship
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class Ship extends Thing{

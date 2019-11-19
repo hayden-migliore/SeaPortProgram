@@ -3,7 +3,7 @@
 //Date: 5/10/19
 //Purpose: keep track of Jobs, run, stop, suspend, and resume
 
-package sea.port.project;
+package seaportprogram;
 import java.util.*;
 
 public class Job extends Thing implements Runnable{
